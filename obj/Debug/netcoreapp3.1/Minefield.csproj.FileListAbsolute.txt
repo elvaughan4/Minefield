@@ -1,0 +1,13 @@
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.csprojAssemblyReference.cache
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.AssemblyInfoInputs.cache
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.AssemblyInfo.cs
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.csproj.CoreCompileInputs.cache
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.exe
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.deps.json
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.runtimeconfig.json
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.runtimeconfig.dev.json
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.dll
+C:\Users\Manager\source\repos\Minefield\Minefield\bin\Debug\netcoreapp3.1\Minefield.pdb
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.dll
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.pdb
+C:\Users\Manager\source\repos\Minefield\Minefield\obj\Debug\netcoreapp3.1\Minefield.genruntimeconfig.cache
